@@ -11,12 +11,12 @@ export default function Navbar() {
           </a>
 
           <div className="d-flex justify-content-around">
-            <a className="mx-3 pb-2 nav-style navlink" href="#home">Home</a>
-            <a className="mx-3 pb-2 nav-style navlink" href="#about">About</a>
-            <a className="mx-3 pb-2 nav-style navlink" href="#skills">Skills</a>
-            <a className="mx-3 pb-2 nav-style navlink" href="#education">Education</a>
-            <a className="mx-3 pb-2 nav-style navlink" href="#projects">Projects</a>
-            <a className="mx-3 pb-2 nav-style navlink" href="#contact">Contact</a>
+            <a className="mx-3 pb-2 nav-style navlink active" href="#home">Home</a>
+            <a className="mx-3 pb-2 nav-style navlink text-white" href="#about">About</a>
+            <a className="mx-3 pb-2 nav-style navlink text-white" href="#skills">Skills</a>
+            <a className="mx-3 pb-2 nav-style navlink text-white" href="#education">Education</a>
+            <a className="mx-3 pb-2 nav-style navlink text-white" href="#projects">Projects</a>
+            <a className="mx-3 pb-2 nav-style navlink text-white" href="#contact">Contact</a>
           </div>
 
         </div>
